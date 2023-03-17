@@ -33,7 +33,7 @@
 ---
 ### Courses:
 
-SheCodes coding workshops 
+* SheCodes coding workshops 
 
 * Meta - "Programming with JavaScript" 
 
