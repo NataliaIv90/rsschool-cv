@@ -2,20 +2,20 @@
 ## Junior Frontend Developer
 
 ### Contact information:
-Phone: +38 98 269 69 12
-E-mail: ivantsovana@gmail.com
-Telegram: @Nata_Ivantsova
-LinkedIn
+**Phone:** +38 98 269 69 12
+**E-mail:** ivantsovana@gmail.com
+**Telegram:** @Nata_Ivantsova
+[_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
 
 ### Briefly About Myself:
 
 ### Skills and Proficiency:
 
-HTML5, CSS3
-JavaScript Basics
-Git, GitHub, GitLab
-VS Code
-Figma
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub, GitLab
+* VS Code
+* Figma
 
 ### Code example:
 
