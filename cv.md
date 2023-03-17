@@ -8,9 +8,10 @@
 **Telegram:** @Nata_Ivantsova 
 [_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)  
 
+---
 ### Briefly About Myself:
 
-   
+---
 
 ### Skills and Proficiency:
 
@@ -24,10 +25,12 @@
 
 * Figma   
 
+---
 ### Code example:
 
-   
 
+
+---
 ### Courses:
 
 SheCodes coding workshops 
@@ -42,6 +45,7 @@ Prog Academy - "Front end development"
 
 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)   
 
+---
 ### Languages: 
 
 English - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org) 
