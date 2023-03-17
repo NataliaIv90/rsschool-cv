@@ -4,8 +4,11 @@
 ### Contact information:
 
 **Phone:** +38 98 269 69 12 
+
 **E-mail:** ivantsovana@gmail.com 
+
 **Telegram:** @Nata_Ivantsova 
+
 [_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)  
 
 ---
