@@ -1,5 +1,3 @@
-https://NataliaIv90.github.io/rsschool-cv/cv
-
 # Natalia Ivantsova 
 ## Junior Frontend Developer  
 
