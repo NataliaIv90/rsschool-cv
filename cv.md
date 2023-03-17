@@ -1,22 +1,18 @@
 # Natalia Ivantsova 
 ## Junior Frontend Developer  
 
---
-
-### Contact information: 
+### Contact information:
 
 **Phone:** +38 98 269 69 12 
 **E-mail:** ivantsovana@gmail.com 
 **Telegram:** @Nata_Ivantsova 
 [_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)  
 
---
+### Briefly About Myself:
 
-### Briefly About Myself: 
+   
 
---
-
-### Skills and Proficiency: 
+### Skills and Proficiency:
 
 * HTML5, CSS3
 
@@ -26,15 +22,13 @@
 
 * VS Code
 
-* Figma  
+* Figma   
 
---
+### Code example:
 
-### Code example: 
+   
 
---
-
-### Courses: 
+### Courses:
 
 SheCodes coding workshops 
 
@@ -46,9 +40,7 @@ Freecodecamp - "Responsive Web Design"
 
 Prog Academy - "Front end development" 
 
-RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
-
---
+RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)   
 
 ### Languages: 
 
