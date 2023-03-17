@@ -35,15 +35,15 @@
 
 SheCodes coding workshops 
 
-Meta - "Programming with JavaScript" 
+* Meta - "Programming with JavaScript" 
 
-Freecodecamp - "JavaScript Algorithms and Data Structures" 
+* Freecodecamp - "JavaScript Algorithms and Data Structures" 
 
-Freecodecamp - "Responsive Web Design" 
+* Freecodecamp - "Responsive Web Design" 
 
-Prog Academy - "Front end development" 
+* Prog Academy - "Front end development" 
 
-RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)   
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)   
 
 ---
 ### Languages: 
