@@ -1,36 +1,36 @@
-# Natalia Ivantsova
-## Junior Frontend Developer
+# Natalia Ivantsova 
+## Junior Frontend Developer  
 
-### Contact information:
-**Phone:** +38 98 269 69 12
-**E-mail:** ivantsovana@gmail.com
-**Telegram:** @Nata_Ivantsova
-[_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
+### Contact information: 
+**Phone:** +38 98 269 69 12 
+**E-mail:** ivantsovana@gmail.com 
+**Telegram:** @Nata_Ivantsova 
+[_**LinkedIn**_](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)  
 
-### Briefly About Myself:
+### Briefly About Myself: 
 
-### Skills and Proficiency:
+### Skills and Proficiency: 
 
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub, GitLab
 * VS Code
-* Figma
+* Figma  
 
-### Code example:
+### Code example: 
 
-### Courses:
+### Courses: 
 
-SheCodes coding workshops
-Meta - "Programming with JavaScript"
-Freecodecamp - "JavaScript Algorithms and Data Structures"
-Freecodecamp - "Responsive Web Design"
-Prog Academy - "Front end development"
-RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+SheCodes coding workshops 
+Meta - "Programming with JavaScript" 
+Freecodecamp - "JavaScript Algorithms and Data Structures" 
+Freecodecamp - "Responsive Web Design" 
+Prog Academy - "Front end development" 
+RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
 
-### Languages:
+### Languages: 
 
-English - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
-EFset Score
-Ukrainian - Native
-Russian - Fluent
+English - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org) 
+![EFset Score](/rsschool-cv/img/English_Level.jpg) 
+Ukrainian - Native 
+Russian - Fluent 
