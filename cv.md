@@ -1,3 +1,5 @@
+https://NataliaIv90.github.io/rsschool-cv/cv
+
 # Natalia Ivantsova 
 ## Junior Frontend Developer  
 
@@ -49,7 +51,6 @@ function rangeOfNumbers(startNum, endNum) {
     countArr.push(endNum);
     return countArr;
   }
-
 };
 ```
 
