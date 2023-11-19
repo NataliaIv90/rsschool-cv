@@ -72,6 +72,6 @@ Worked on group project - news portal about games.
 
 ## English 
 
-Intermediate (EF Set Test) B1-B2:
-  + Reading - Advanced
-  + Listening - Intermediate
+Advanced C1 (EF Set Test) 
+
+![EF Set Sertificate](https://drive.google.com/file/d/1nKQLDobhvuJM_8hqREB-vLbmIK-y6i74/view?usp=sharing)
