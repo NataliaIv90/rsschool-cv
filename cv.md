@@ -2,8 +2,8 @@
 
 ## Contact info:
 
-**email:** ivantsova.tech@gmail.com
-**telegram:** @NataIvantsova
+- **email:** ivantsova.tech@gmail.com
+- **telegram:** @NataIvantsova
 
 ## Summary 
 
@@ -34,11 +34,11 @@ I believe that the world of web development is a canvas where innovation and cre
 ## Code examples
 
 * **Responsive portfolio** 
-[Code on GitHub](https://github.com/NataliaIv90/responsive-portfolio)
-[Hosted on Netlify](https://sparkling-scone-58e483.netlify.app/)
+  - [Code on GitHub](https://github.com/NataliaIv90/responsive-portfolio)
+  - [Hosted on Netlify](https://sparkling-scone-58e483.netlify.app/)
 
 * **Group Pet Project**
-[Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)
+  - [Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)
 
 ## Experience 
 
@@ -52,26 +52,26 @@ Worked on group project - news portal about games.
 ## Education 
 
 * **FreeCodeCamp**
-+ Responsive Web Design
-+ JavaScript Algorithms and Data Structures
-+ Front End Development Libraries
+  + Responsive Web Design
+  + JavaScript Algorithms and Data Structures
+  + Front End Development Libraries
 
 * **Coursera**
-+ Programming with JavaScript
+  + Programming with JavaScript
 
 * **Online resources**
-+ freecodecamp.org
-+ uk.javascript.info
-+ developer.mozilla.org
-+ www.learn-js.org
-+ www.w3schools.com
-+ redux-toolkit.js.org
-+ react.dev/learn
-+ mui.com
-+ www.typescriptlang.org
+  + freecodecamp.org
+  + uk.javascript.info
+  + developer.mozilla.org
+  + www.learn-js.org
+  + www.w3schools.com
+  + redux-toolkit.js.org
+  + react.dev/learn
+  + mui.com
+  + www.typescriptlang.org
 
 ## English 
 
 Intermediate (EF Set Test) B1-B2:
-+ Reading - Advanced
-+ Listening - Intermediate
+  + Reading - Advanced
+  + Listening - Intermediate
