@@ -43,7 +43,9 @@ I believe that the world of web development is a canvas where innovation and cre
 ## Experience 
 
 **TechFabric School**
+
 *June 2023 - October 2023*
+
 Worked on group project - news portal about games.
 + Communication with BE and QA team members
 + React, TypeScript, MUI, MUI Styled, RTK Query, GIT 
