@@ -76,4 +76,4 @@ Worked on group project - news portal about games.
 
 Advanced C1 (EF Set Test) 
 
-![EF Set Sertificate](https://drive.google.com/file/d/1nKQLDobhvuJM_8hqREB-vLbmIK-y6i74/view?usp=sharing)
+![EF Set Sertificate](./img/EFSET.jpg)
