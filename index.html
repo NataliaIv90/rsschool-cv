@@ -19,16 +19,42 @@
     <header>
       <h1>Natalia Ivantsova</h1>
       <h2 class='cv_subtitle'>Junior Front-End Developer</h2>
+      <nav id='navigation'>
+        <ul>
+          <li>
+            <a href='#contacts'>Contact info</a>
+          </li>
+          <li>
+            <a href='#summary'>Summary</a>
+          </li>
+          <li>
+            <a href='#skills'>Skills</a>
+          </li>
+          <li>
+            <a href='#code'>Code examples</a>
+          </li>
+          <li>
+            <a href='#experience'>Experience</a>
+          </li>
+          <li>
+            <a href='#education'>Education</a>
+          </li>
+          <li>
+            <a href='#english_level'>English level</a>
+          </li>
+        </ul>
+      </nav>
 
-      <section class='contacts_container'>
+    </header>
+
+    <main>
+      <section id='contacts' class='contacts_container'>
         <h2 class='contacts_title'>Contact info:</h2>
         <p class='contacts_item'><strong>email:</strong> ivantsova.tech@gmail.com</p>
         <p class='contacts_item'><strong>telegram:</strong> @NataIvantsova</p>
       </section>
-    </header>
 
-    <main>
-      <section>
+      <section id='summary'>
         <h2 class='section_title'>Summary</h2>
 
         <div class='summary_text'>
@@ -65,7 +91,7 @@
         </div>
       </section>
 
-      <section>
+      <section id='skills'>
         <h2 class='section_title'>Skills</h2>
         <ul>
           <li>HTML</li>
@@ -82,9 +108,10 @@
         </ul>
       </section>
 
-      <section>
+      <section id='code'>
         <h2 class='section_title'>Code examples</h2>
 
+        <h3>Links to GitHub repos</h3>
         <p>
           <span>Responsive portfolio:</span>
           <a href='https://github.com/NataliaIv90/responsive-portfolio' target='_blank'>Code on GitHub</a> /
@@ -95,9 +122,27 @@
           <span>Group Pet Project</span>
           <a href='https://github.com/NataliaIv90/techfabric-pet' target='_blank'>Code on GitHub</a>
         </p>
+
+        <h3>Code example</h3>
+        <pre>
+function toggleImage() {
+  for (let i = 1; i &lt; constrImages.length; i++) {
+     constrImages[i].classList.add("hidden"); 
+    }
+    constrImagesSelector.forEach(el=> {
+      constrImages.forEach(imgEl => {
+        if (el.checked) {
+          imgEl.classList.remove("hidden");
+        }
+      })
+    })
+  }
+        </pre>
+
+
       </section>
 
-      <section>
+      <section id='experience'>
         <h2 class='section_title'>Experience</h2>
 
         <h3>TechFabric School</h3>
@@ -110,7 +155,7 @@
         </ul>
       </section>
 
-      <section>
+      <section id='education'>
         <h2 class='section_title'>Education</h2>
 
         <div>
@@ -146,7 +191,7 @@
         </div>
       </section>
 
-      <section>
+      <section id='english_level'>
         <h2 class='section_title'>English</h2>
         <p>Advanced C1 (EF Set Test)</p>
         <img id='eng_sertificate_img' src='./img/EFSET.jpg' alt='English level EF SET Sertificate'>
@@ -154,14 +199,14 @@
     </main>
   </div>
 
-  <footer>
-    <p class='footer_text'>This page is created by Natalia Ivantsova 26.11.2023 </p>
+  <footer id='footer'>
+    <p class='footer_text'>This page is created by Natalia Ivantsova 27.11.2023 </p>
     <p>Links to
       <a href='https://rs.school/' target='_blank'>
         <img class='footer_img' src='./img/download.png' alt='RSSchool logo'>
         course page
       </a>
-      my
+      , my
       <a class='footer_link' href='https://github.com/NataliaIv90' target='_blank'>GitHub</a>
       and
       <a class='footer_link' href='https://github.com/NataliaIv90/rsschool-cv' target='_blank'>current page code</a>
